@@ -1,3 +1,9 @@
 [submodule "client-service"]
 	path = client-service
 	url = https://github.com/IQuinxI/Client-Service.git
+[submodule "order-invoice-service"]
+	path = order-invoice-service
+	url = https://github.com/IQuinxI/order-invoice-service.git
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/Wlahmamssi69/Product-service.git
