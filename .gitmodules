@@ -7,3 +7,6 @@
 [submodule "product-service"]
 	path = product-service
 	url = https://github.com/Wlahmamssi69/Product-service.git
+[submodule "product-service-sub"]
+	path = product-service-sub
+	url = https://github.com/Wlahmamssi69/Product-service.git
