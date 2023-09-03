@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "client-service"
+		},
+		{
+			"path": "discovery-service"
+		},
+		{
+			"path": "order-invoice-service"
+		},
+		{
+			"path": "product-service"
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
