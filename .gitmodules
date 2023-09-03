@@ -1,0 +1,3 @@
+[submodule "client-service-sub"]
+	path = client-service-sub
+	url = https://github.com/IQuinxI/Client-Service.git
